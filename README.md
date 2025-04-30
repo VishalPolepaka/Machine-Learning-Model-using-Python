@@ -1,7 +1,7 @@
-# Machine-Learning-Model-using-Python
+# Prediction of aqueous solubility (logS) - ML & Python
 
 ## Overview:
-This project aims to predict the aqueous solubility (LogS) of organic compounds using the Delaney dataset. By employing machine learning models such as Linear Regression and Random Forest Regressor, the project seeks to establish a reliable predictive framework for solubility estimation based on molecular descriptors.
+This project aims to predict the aqueous solubility (LogS) of organic compounds using the Delaney dataset. By employing machine learning models such as Linear Regression and Random Forest Regressor, the model aims to assist in drug discovery and formulation by providing accurate solubility predictions based on molecular descriptors.
 
 ## Dataset:
 https://github.com/dataprofessor/data/blob/master/delaney_solubility_with_descriptors.csv
